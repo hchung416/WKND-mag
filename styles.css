@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    position: absolute;
+    position: fixed;
     margin-top: -898px;
     max-width: fit-content;
 }
