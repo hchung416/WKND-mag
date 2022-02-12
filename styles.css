@@ -26,15 +26,29 @@ body {
 }
 
 .hero h1, h2 {
-    z-index: 2;
+    /* z-index: 2;
     position: relative;
     background: #ffea00;
     color: #202020;
     padding: 16px 48px;
-    margin: 10;
+    margin: 10; */
     flex: 1 1 auto;
     font-family: Asar,Georgia,Times New Roman,Times,serif
     line-height: 1.5;
+    
+    
+    
+    background-color: #fff;
+    margin-top: -180px;
+    height: 180px;
+    min-height: 180px;
+    float: left;
+    padding-bottom: 0;
+    width: 71pc;
+    position: relative;
+    padding-left: 28px;
+    padding-right: 28px;
+}
 }
 .hero picture {
     display: block;
