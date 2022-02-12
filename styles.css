@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #ffea00;
+    background: #303030;
     font-color: #202020;
     font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif
     margin: 0;
@@ -27,9 +27,9 @@ body {
 .hero h1, h2 {
     z-index: 2;
     position: relative;
-    background: #303030;
+    background: #ffea00;
     color: #FFF;
-    padding: 6px 24px;
+    padding: 16px 48px;
     margin: 0;
     flex: 1 1 auto;
     font-family: Asar,Georgia,Times New Roman,Times,serif
