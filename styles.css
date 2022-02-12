@@ -4,9 +4,10 @@
 
 body {
     background: #303030;
-    font-color: #202020;
+    font-color: #fff;
     font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif
-    margin: 0;
+    font-size: 20px;
+    margin: 10;
 }
 
 .hero {
@@ -28,9 +29,9 @@ body {
     z-index: 2;
     position: relative;
     background: #ffea00;
-    color: #FFF;
+    color: #202020;
     padding: 16px 48px;
-    margin: 0;
+    margin: 10;
     flex: 1 1 auto;
     font-family: Asar,Georgia,Times New Roman,Times,serif
     line-height: 1.5;
@@ -47,5 +48,5 @@ body {
 .hero img {
     object-fit: cover;
     width: 100%;
-    height: 100%;
+    height: 80%;
 }
