@@ -31,6 +31,8 @@ body {
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
+    font-family: Asar,Georgia,Times New Roman,Times,serif
+    line-height: 1.5;
 }
 .hero picture {
     display: block;
