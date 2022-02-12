@@ -10,6 +10,7 @@ body {
 
 .header {
     position: fixed;
+        z-index: 4;
     margin-top: -898px;
     max-width: fit-content;
 }
