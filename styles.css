@@ -9,10 +9,9 @@ body {
 }
 
 .header {
-position: absolute;
-margin-top: -898px;
+    position: absolute;
+    margin-top: -898px;
     max-width: fit-content;
-
 }
 
 
