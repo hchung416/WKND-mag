@@ -8,6 +8,14 @@ body {
     margin: 0;
 }
 
+.header {
+position: absolute;
+margin-top: -898px;
+    max-width: fit-content;
+
+}
+
+
 .hero {
     position: relative;
 }
@@ -44,12 +52,12 @@ body {
 .hero img {
     object-fit: cover;
     width: 100%;
-    height: 60%;
+    height: 70%;
 }
 
 .heading {
     background-color: #fff;
-    margin-top: -550px;
+    margin-top: -475px;
     height: 130px;
     float: middle;
     position: absolute;
@@ -102,5 +110,5 @@ body {
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: bold;
+    font-weight: normal;
 }
